@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'shield for arduino'
+project = 'Shield for Arduino'
 copyright = 'keyestudio'
 author = 'keyestudio WiKi'
 
